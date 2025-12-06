@@ -1,0 +1,53 @@
+name: dotori_client
+description: Dotori Flutter client (auth + summaries)
+publish_to: "none"
+<<<<<<< HEAD
+=======
+
+>>>>>>> clean-summary-2_flutter
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+<<<<<<< HEAD
+  http: ^1.1.0
+  shared_preferences: ^2.2.3
+  web_socket_channel: ^2.4.0
+
+=======
+
+  # ── 네트워크/저장 ──
+  http: ^1.2.2
+  shared_preferences: ^2.3.2
+  web_socket_channel: ^2.4.0
+
+  # ── 사진 업로드 
+  image_picker: ^1.0.7
+
+  # ── AI 디텍터용 파일 선택 ─
+  file_picker: ^8.0.0
+
+  # ── 분석 기능용 차트 라이브러리 
+  fl_chart: ^0.65.0
+
+>>>>>>> clean-summary-2_flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+<<<<<<< HEAD
+  # assets:
+  #   - assets/
+=======
+
+  assets:
+    - assets/dotori_logo.png
+>>>>>>> clean-summary-2_flutter

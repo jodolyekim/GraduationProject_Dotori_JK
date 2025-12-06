@@ -1,0 +1,178 @@
+Date : 2025-12-06 16:17:02
+Directory : c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client
+Total : 92 files,  11071 codes, 7306 comments, 2114 blanks, all 20491 lines
+
+Languages
++-++++++
+| language        | files      | code       | comment    | blank      | total      |
++-++++++
+| Dart            |         37 |      9,136 |      7,106 |      1,755 |     17,997 |
+| C++             |         16 |        547 |        131 |        189 |        867 |
+| XML             |         13 |        521 |         43 |         23 |        587 |
+| CMake           |          8 |        463 |          0 |         92 |        555 |
+| JSON            |          5 |        269 |          0 |          5 |        274 |
+| Swift           |          6 |         57 |          7 |         21 |         85 |
+| YAML            |          2 |         29 |          4 |         13 |         46 |
+| Markdown        |          2 |         22 |          0 |          9 |         31 |
+| HTML            |          1 |         19 |         15 |          5 |         39 |
+| Java Properties |          2 |          8 |          0 |          2 |         10 |
++-++++++
+
+Directories
++++++++
+| path                                                                                                                                  | files      | code       | comment    | blank      | total      |
++++++++
+| .                                                                                                                                     |         92 |     11,071 |      7,306 |      2,114 |     20,491 |
+| . (Files)                                                                                                                             |          3 |         48 |          4 |         20 |         72 |
+| android                                                                                                                               |         12 |        118 |         41 |         22 |        181 |
+| android (Files)                                                                                                                       |          1 |          3 |          0 |          1 |          4 |
+| android\app                                                                                                                           |         10 |        110 |         41 |         20 |        171 |
+| android\app\src                                                                                                                       |         10 |        110 |         41 |         20 |        171 |
+| android\app\src\debug                                                                                                                 |          1 |          3 |          4 |          1 |          8 |
+| android\app\src\main                                                                                                                  |          8 |        104 |         33 |         18 |        155 |
+| android\app\src\main (Files)                                                                                                          |          1 |         29 |          1 |         10 |         40 |
+| android\app\src\main\res                                                                                                              |          7 |         75 |         32 |          8 |        115 |
+| android\app\src\main\res\drawable                                                                                                     |          1 |          9 |          0 |          1 |         10 |
+| android\app\src\main\res\drawable-v21                                                                                                 |          1 |          9 |          0 |          1 |         10 |
+| android\app\src\main\res\values                                                                                                       |          1 |         13 |          9 |          1 |         23 |
+| android\app\src\main\res\values-night                                                                                                 |          1 |         13 |          9 |          1 |         23 |
+| android\app\src\main\res\values-night-v31                                                                                             |          1 |         12 |          7 |          1 |         20 |
+| android\app\src\main\res\values-v31                                                                                                   |          1 |         12 |          7 |          1 |         20 |
+| android\app\src\main\res\xml                                                                                                          |          1 |          7 |          0 |          2 |          9 |
+| android\app\src\profile                                                                                                               |          1 |          3 |          4 |          1 |          8 |
+| android\gradle                                                                                                                        |          1 |          5 |          0 |          1 |          6 |
+| android\gradle\wrapper                                                                                                                |          1 |          5 |          0 |          1 |          6 |
+| ios                                                                                                                                   |          9 |        257 |          4 |         14 |        275 |
+| ios\Runner                                                                                                                            |          8 |        250 |          2 |         10 |        262 |
+| ios\Runner (Files)                                                                                                                    |          2 |         13 |          0 |          3 |         16 |
+| ios\RunnerTests                                                                                                                       |          1 |          7 |          2 |          4 |         13 |
+| ios\Runner\Assets.xcassets                                                                                                            |          4 |        169 |          0 |          5 |        174 |
+| ios\Runner\Assets.xcassets\AppIcon.appiconset                                                                                         |          1 |        122 |          0 |          1 |        123 |
+| ios\Runner\Assets.xcassets\LaunchBackground.imageset                                                                                  |          1 |         21 |          0 |          1 |         22 |
+| ios\Runner\Assets.xcassets\LaunchImage.imageset                                                                                       |          2 |         26 |          0 |          3 |         29 |
+| ios\Runner\Base.lproj                                                                                                                 |          2 |         68 |          2 |          2 |         72 |
+| lib                                                                                                                                   |         37 |      9,136 |      7,106 |      1,755 |     17,997 |
+| lib (Files)                                                                                                                           |          2 |        184 |        367 |         69 |        620 |
+| lib\screens                                                                                                                           |         19 |      7,117 |      6,409 |      1,356 |     14,882 |
+| lib\screens (Files)                                                                                                                   |         17 |      5,798 |      5,862 |      1,220 |     12,880 |
+| lib\screens\analytics                                                                                                                 |          2 |      1,319 |        547 |        136 |      2,002 |
+| lib\services                                                                                                                          |          9 |      1,161 |        103 |        209 |      1,473 |
+| lib\theme                                                                                                                             |          1 |         31 |          7 |          7 |         45 |
+| lib\widgets                                                                                                                           |          6 |        643 |        220 |        114 |        977 |
+| linux                                                                                                                                 |          9 |        330 |         37 |         92 |        459 |
+| linux (Files)                                                                                                                         |          1 |        104 |          0 |         25 |        129 |
+| linux\flutter                                                                                                                         |          4 |        110 |          9 |         27 |        146 |
+| linux\runner                                                                                                                          |          4 |        116 |         28 |         40 |        184 |
+| macos                                                                                                                                 |          6 |        449 |          5 |         17 |        471 |
+| macos\Flutter                                                                                                                         |          1 |          8 |          3 |          4 |         15 |
+| macos\Runner                                                                                                                          |          4 |        434 |          0 |          9 |        443 |
+| macos\Runner (Files)                                                                                                                  |          2 |         23 |          0 |          7 |         30 |
+| macos\RunnerTests                                                                                                                     |          1 |          7 |          2 |          4 |         13 |
+| macos\Runner\Assets.xcassets                                                                                                          |          1 |         68 |          0 |          1 |         69 |
+| macos\Runner\Assets.xcassets\AppIcon.appiconset                                                                                       |          1 |         68 |          0 |          1 |         69 |
+| macos\Runner\Base.lproj                                                                                                               |          1 |        343 |          0 |          1 |        344 |
+| web                                                                                                                                   |          2 |         54 |         15 |          6 |         75 |
+| windows                                                                                                                               |         14 |        679 |         94 |        188 |        961 |
+| windows (Files)                                                                                                                       |          1 |         89 |          0 |         20 |        109 |
+| windows\flutter                                                                                                                       |          4 |        128 |          9 |         29 |        166 |
+| windows\runner                                                                                                                        |          9 |        462 |         85 |        139 |        686 |
++++++++
+
+Files
+++-+++++
+| filename                                                                                                                              | language        | code       | comment    | blank      | total      |
+++-+++++
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\README.md                                                          | Markdown        |         19 |          0 |          7 |         26 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\analysis_options.yaml                                              | YAML            |          5 |          0 |          2 |          7 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\android\app\src\debug\AndroidManifest.xml                          | XML             |          3 |          4 |          1 |          8 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\android\app\src\main\AndroidManifest.xml                           | XML             |         29 |          1 |         10 |         40 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\android\app\src\main\res\drawable-v21\launch_background.xml        | XML             |          9 |          0 |          1 |         10 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\android\app\src\main\res\drawable\launch_background.xml            | XML             |          9 |          0 |          1 |         10 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\android\app\src\main\res\values-night-v31\styles.xml               | XML             |         12 |          7 |          1 |         20 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\android\app\src\main\res\values-night\styles.xml                   | XML             |         13 |          9 |          1 |         23 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\android\app\src\main\res\values-v31\styles.xml                     | XML             |         12 |          7 |          1 |         20 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\android\app\src\main\res\values\styles.xml                         | XML             |         13 |          9 |          1 |         23 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\android\app\src\main\res\xml\network_security_config.xml           | XML             |          7 |          0 |          2 |          9 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\android\app\src\profile\AndroidManifest.xml                        | XML             |          3 |          4 |          1 |          8 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\android\gradle.properties                                          | Java Properties |          3 |          0 |          1 |          4 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\android\gradle\wrapper\gradle-wrapper.properties                   | Java Properties |          5 |          0 |          1 |          6 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\ios\RunnerTests\RunnerTests.swift                                  | Swift           |          7 |          2 |          4 |         13 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\ios\Runner\AppDelegate.swift                                       | Swift           |         12 |          0 |          2 |         14 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json        | JSON            |        122 |          0 |          1 |        123 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\ios\Runner\Assets.xcassets\LaunchBackground.imageset\Contents.json | JSON            |         21 |          0 |          1 |         22 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json      | JSON            |         23 |          0 |          1 |         24 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md          | Markdown        |          3 |          0 |          2 |          5 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\ios\Runner\Base.lproj\LaunchScreen.storyboard                      | XML             |         43 |          1 |          1 |         45 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\ios\Runner\Base.lproj\Main.storyboard                              | XML             |         25 |          1 |          1 |         27 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\ios\Runner\Runner-Bridging-Header.h                                | C++             |          1 |          0 |          1 |          2 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\config.dart                                                    | Dart            |          3 |          6 |          2 |         11 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\main.dart                                                      | Dart            |        181 |        361 |         67 |        609 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\analytics\admin_analytics_screen.dart                  | Dart            |        529 |        118 |         42 |        689 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\analytics\user_analytics_screen.dart                   | Dart            |        790 |        429 |         94 |      1,313 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\detector_audio_screen.dart                             | Dart            |          0 |        102 |         21 |        123 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\detector_home_screen.dart                              | Dart            |        276 |        493 |         62 |        831 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\detector_image_screen.dart                             | Dart            |        235 |        141 |         41 |        417 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\detector_text_screen.dart                              | Dart            |        179 |         72 |         22 |        273 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\detector_video_screen.dart                             | Dart            |        268 |        138 |         46 |        452 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\home_screen.dart                                       | Dart            |        507 |        527 |        107 |      1,141 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\landing_screen.dart                                    | Dart            |        160 |         56 |         18 |        234 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\login_screen.dart                                      | Dart            |        236 |        144 |         44 |        424 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\membership_overview_screen.dart                        | Dart            |        648 |        192 |         77 |        917 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\membership_screen.dart                                 | Dart            |        346 |        209 |         71 |        626 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\my_page_screen.dart                                    | Dart            |        638 |      2,138 |        303 |      3,079 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\point_screen.dart                                      | Dart            |        463 |        196 |         51 |        710 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\quiz_screen.dart                                       | Dart            |        388 |        279 |         66 |        733 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\register_screen.dart                                   | Dart            |        463 |        326 |         82 |        871 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\roleplay_screen.dart                                   | Dart            |        421 |        509 |        107 |      1,037 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\splash_screen.dart                                     | Dart            |        116 |         35 |         15 |        166 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\screens\summary_screen.dart                                    | Dart            |        454 |        305 |         87 |        846 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\services\analytics_api_service.dart                            | Dart            |         27 |          2 |          8 |         37 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\services\api_client.dart                                       | Dart            |        148 |         17 |         24 |        189 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\services\auth_service.dart                                     | Dart            |        243 |         18 |         34 |        295 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\services\detector_service.dart                                 | Dart            |        140 |         16 |         22 |        178 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\services\membership_api_service.dart                           | Dart            |        137 |         24 |         41 |        202 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\services\membership_service.dart                               | Dart            |        214 |          2 |         35 |        251 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\services\quiz_service.dart                                     | Dart            |         43 |          6 |          5 |         54 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\services\roleplay_service.dart                                 | Dart            |         86 |          7 |         17 |        110 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\services\summary_service.dart                                  | Dart            |        123 |         11 |         23 |        157 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\theme\app_theme.dart                                           | Dart            |         31 |          7 |          7 |         45 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\widgets\dotori_button.dart                                     | Dart            |         77 |         22 |         13 |        112 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\widgets\feature_carousel.dart                                  | Dart            |         84 |          8 |         19 |        111 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\widgets\feature_carousel_item.dart                             | Dart            |        219 |         12 |         27 |        258 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\widgets\home_feature_card.dart                                 | Dart            |         66 |          2 |          4 |         72 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\widgets\home_section_title.dart                                | Dart            |         26 |          1 |          4 |         31 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\lib\widgets\result_card.dart                                       | Dart            |        171 |        175 |         47 |        393 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\linux\CMakeLists.txt                                               | CMake           |        104 |          0 |         25 |        129 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\linux\flutter\CMakeLists.txt                                       | CMake           |         79 |          0 |         10 |         89 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\linux\flutter\generated_plugin_registrant.cc                       | C++             |          7 |          4 |          5 |         16 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\linux\flutter\generated_plugin_registrant.h                        | C++             |          5 |          5 |          6 |         16 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\linux\flutter\generated_plugins.cmake                              | CMake           |         19 |          0 |          6 |         25 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\linux\runner\CMakeLists.txt                                        | CMake           |         21 |          0 |          6 |         27 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\linux\runner\main.cc                                               | C++             |          5 |          0 |          2 |          7 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\linux\runner\my_application.cc                                     | C++             |         83 |         21 |         27 |        131 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\linux\runner\my_application.h                                      | C++             |          7 |          7 |          5 |         19 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\macos\Flutter\GeneratedPluginRegistrant.swift                      | Swift           |          8 |          3 |          4 |         15 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\macos\RunnerTests\RunnerTests.swift                                | Swift           |          7 |          2 |          4 |         13 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\macos\Runner\AppDelegate.swift                                     | Swift           |         11 |          0 |          3 |         14 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\macos\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json      | JSON            |         68 |          0 |          1 |         69 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\macos\Runner\Base.lproj\MainMenu.xib                               | XML             |        343 |          0 |          1 |        344 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\macos\Runner\MainFlutterWindow.swift                               | Swift           |         12 |          0 |          4 |         16 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\pubspec.yaml                                                       | YAML            |         24 |          4 |         11 |         39 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\web\index.html                                                     | HTML            |         19 |         15 |          5 |         39 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\web\manifest.json                                                  | JSON            |         35 |          0 |          1 |         36 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\windows\CMakeLists.txt                                             | CMake           |         89 |          0 |         20 |        109 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\windows\flutter\CMakeLists.txt                                     | CMake           |         98 |          0 |         12 |        110 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\windows\flutter\generated_plugin_registrant.cc                     | C++             |          6 |          4 |          5 |         15 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\windows\flutter\generated_plugin_registrant.h                      | C++             |          5 |          5 |          6 |         16 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\windows\flutter\generated_plugins.cmake                            | CMake           |         19 |          0 |          6 |         25 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\windows\runner\CMakeLists.txt                                      | CMake           |         34 |          0 |          7 |         41 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\windows\runner\flutter_window.cpp                                  | C++             |         49 |          7 |         16 |         72 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\windows\runner\flutter_window.h                                    | C++             |         20 |          5 |          9 |         34 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\windows\runner\main.cpp                                            | C++             |         30 |          4 |         10 |         44 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\windows\runner\resource.h                                          | C++             |          9 |          6 |          2 |         17 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\windows\runner\utils.cpp                                           | C++             |         54 |          2 |         10 |         66 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\windows\runner\utils.h                                             | C++             |          8 |          6 |          6 |         20 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\windows\runner\win32_window.cpp                                    | C++             |        210 |         24 |         55 |        289 |
+| c:\Users\joy14_hq\Desktop\Graduation Project\dotori_flutter_client\windows\runner\win32_window.h                                      | C++             |         48 |         31 |         24 |        103 |
+| Total                                                                                                                                 |                 |     11,071 |      7,306 |      2,114 |     20,491 |
+++-+++++
