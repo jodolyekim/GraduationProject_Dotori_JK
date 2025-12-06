@@ -11,7 +11,7 @@ AI 기반 요약, 역할극 시뮬레이션, AI 생성물 탐지, 퀴즈 학습,
 https://drive.google.com/file/d/1rGDJrvyqPaqW07xOdAbO6ECpxdYu-neq/view?usp=sharing
 
 
-                            <img width="150" height="145" alt="image" src="https://github.com/user-attachments/assets/91571692-12a1-49e2-91cf-c0b93c0c99db" />
+<img width="150" height="145" alt="image" src="https://github.com/user-attachments/assets/91571692-12a1-49e2-91cf-c0b93c0c99db" />
 (구글드라이브 바로가기 QR)
 
 또한 실제 플레이 영상 링크를 함께 첨부합니다.
